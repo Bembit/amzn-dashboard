@@ -1,8 +1,8 @@
 # amzn-dashboard
 
-## Project Overview: Data Dashboard for Efficiency
+## Project Overview:
 
-The project started in 2016 while I was a Team Leader, handling extensive Excel data from multiple sources. In 2017, the idea of a web-based dashboard emerged. The shift from Excel to web technologies began, resulting in a dynamic live JavaScript (React) demo.
+The project started in 2016 while I was a Team Leader, handling extensive Excel data from multiple sources. In 2016, the idea of a web-based dashboard emerged. The shift from Excel to web technologies began, resulting in a dynamic live JavaScript (React) demo in 2017.
 
 The Dashboard project streamlines operations by centralising diverse data sources into a single platform. This user-friendly dashboard eliminates the need to search various websites, Excel sheets, and emails for crucial information, saving employee time and effort.
 
