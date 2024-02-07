@@ -1,6 +1,11 @@
 # amzn-dashboard
 
-## Project Overview:
+## Overview:
+
+<div>
+  <img src="https://github.com/Bembit/amzn-dashboard/blob/main/dashboard%201.png" width="48%">
+  <img src="https://github.com/Bembit/amzn-dashboard/blob/main/dashboard%208.png" width="48%">
+</div>
 
 The project started in 2016 while I was a Team Leader, handling extensive Excel data from multiple sources. In 2016, the idea of a web-based dashboard emerged. The shift from Excel to web technologies began, resulting in a dynamic live JavaScript (React) demo in 2017.
 
@@ -8,7 +13,7 @@ The Dashboard project streamlines operations by centralising diverse data source
 
 The main goal of the project is to boost productivity by providing a unified interface for data retrieval. By aggregating data from different sources, the dashboard empowers users to quickly access and analyse necessary information, enabling efficient task execution and decision making.
 
-## Key starting Features:
+## Features:
 
 - Centralised Repository: The dashboard acts as a hub, aggregating and organising data from various sources for consistent and accurate access.
 
