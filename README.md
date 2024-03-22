@@ -1,37 +1,21 @@
 # amzn-dashboard
 
-## Overview:
-
 <div>
   <img src="https://github.com/Bembit/amzn-dashboard/blob/main/dashboard%201.png" width="48%">
   <img src="https://github.com/Bembit/amzn-dashboard/blob/main/dashboard%208.png" width="48%">
 </div>
 
-The project started in 2016 while I was a Team Leader, handling extensive Excel data from multiple sources. In 2016, the idea of a web-based dashboard emerged. The shift from Excel to web technologies began, resulting in a dynamic live JavaScript (React) demo in 2017.
+- In 2016, while working as a Team Lead at Amazon, I noticed how overwhelmed we are with Excel sheets and legacy web apps.
+- In 2017 I decided to start working on a unified data repo MVP, a dashboard of sorts, tailored to the needs of the employees of the EU operations.
+  - Showing a Landing with the most frequently used data.
+  - Extra components for various vehicle movements, safety, reports etc.
+  - Separate ticketing / incident integration.
+  - Ability to quickly switch to and see the status of other Amazon sites.
+  - Being able to see currently on shift employees of the chosen site.
+  - Accessible from mobile for senior management to reduce daily email reports and meetings even.
+- Project was discontinued in 2018 due to lack of interest/support from senior management.
 
-The Dashboard project streamlines operations by centralising diverse data sources into a single platform. This user-friendly dashboard eliminates the need to search various websites, Excel sheets, and emails for crucial information, saving employee time and effort.
-
-The main goal of the project is to boost productivity by providing a unified interface for data retrieval. By aggregating data from different sources, the dashboard empowers users to quickly access and analyse necessary information, enabling efficient task execution and decision making.
-
-## Features:
-
-- Centralised Repository: The dashboard acts as a hub, aggregating and organising data from various sources for consistent and accurate access.
-
-- Intuitive Interface: Designed for easy navigation, the interface caters to users of all technical levels, facilitating hassle-free data retrieval.
-
-- Real-time Updates: The dashboard offers real-time data updates, critical for swift decision-making in dynamic business environments.
-
-- Search and Filters: Robust search and filter functions enable users to quickly locate information within the dataset.
-
-- Mobile Access: The dashboard is accessible from various devices, allowing on-the-go information availability to reduce unnecessary laptop times.
-
-- Contacts: The dashboard allows users to find the contacts of individuals from other operations within a few clicks.
-
-- Read other Sites Data: Users can gain insights into the performance of other sites without the need for calls and emails, streamlining information gathering.
-
-<br><br>
-
-#### All visible data was randomly generated in Excel for the purposes of this demo, and images are further blurred to avoid any resemblance to real data.
+<em>To this date, this is my favourite project.</em>
 
 <div>
 <img src="https://github.com/Bembit/amzn-dashboard/blob/main/dashboard%201.png" width="100%">
